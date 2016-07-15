@@ -5,7 +5,11 @@ import java.util.HashMap;
 import java.util.Iterator;
 import java.util.LinkedList;
 import java.util.Map;
-
+/**
+ * 我自己的BowFeature类,提取的信息相对老师的来说目前觉得更精准.
+ * @author niu
+ *
+ */
 public class BowFeature {
 
 	public LinkedList<Map<String, Integer>> maplist = new LinkedList<Map<String, Integer>>();;
