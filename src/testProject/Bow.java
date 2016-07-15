@@ -2,7 +2,7 @@ package testProject;
 
 import java.util.HashMap;
 import java.util.Map;
-
+//sya hello on bow
 /**
  * 词袋类，用于将一些源码信息转为词向量的形式，目前转义符后跟数字的情况还没考虑。
  * 将源码按照是注释区还是非注释区一块块的解析，拆分。例如是对于注释区的内容，注释中的大量*是
